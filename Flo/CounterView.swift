@@ -56,5 +56,5 @@ class CounterView: UIView {
         
     }
     
-
+    let text = "New text"
 }
