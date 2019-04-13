@@ -63,6 +63,6 @@ class PushButton: UIButton {
         
     }
     
-    
+    var label = "This is a test label for branchings"
 
 }
