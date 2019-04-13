@@ -64,5 +64,6 @@ class PushButton: UIButton {
     }
     
     var label = "This is a test label for branchings"
+    var label2 = "Another test label"
 
 }
